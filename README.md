@@ -32,5 +32,3 @@ CONTACT:
 If you need any help feel free to contact us: 
 info@maldicore.com
 http://maldicore.com
-
-P.S. github updated via Terminal IDE & DroidEdit on KindleFire on Android
