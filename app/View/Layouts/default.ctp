@@ -116,9 +116,9 @@ $cakeDescription = __d('cake_dev', 'Bibliography');
 			
 			<div class="span8">
 				<p class="left12"><?php
-				echo $this->Html->image('logo.jpg',array('alt'=>'S&R Associates'));
+				echo $this->Html->image('cake.power.gif',array('alt'=>'Maldicore Group Pvt Ltd'));
 				if(date('Y') == '2012') { $cy = date('Y'); } else { $cy = "2012 - ".date('Y'); }
-				echo "<span class='left12'>Copyright ".$cy." S&R Assocaites - All Rights Reserved.</span>";
+				echo "<span class='left12'>Copyright ".$cy." Maldicore Group Pvt Ltd - All Rights Reserved.</span>";
 				?>
 				</p>
 			</div>
