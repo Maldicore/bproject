@@ -6,6 +6,8 @@ Create your own category with custom fields and add data to the category with 1 
 
 DEMO:
 http://bproject.herokuapp.com
+username: admin
+password: admin
 
 USING:
 - CakePHP 2.x and couple of plugins
